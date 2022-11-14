@@ -11,13 +11,21 @@ Results Review
 
 June
 Measure	Value
+
 Count	1700
+
 Mean	74.94
+
 STD	3.25
+
 Min	64.0
+
 25%	73.0
+
 50%	75.0
+
 75%	77.0
+
 Max	85.0
 
 December
