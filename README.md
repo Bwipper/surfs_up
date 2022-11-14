@@ -29,12 +29,21 @@ Min	64.0
 Max	85.0
 
 December
+
 Measure	Value
+
 Count	1517
+
 Mean	71.04
+
 STD	3.74
+
 Min	56.0
+
 25%	69.0
+
 50%	71.0
+
 75%	74.0
+
 Max	83.0
