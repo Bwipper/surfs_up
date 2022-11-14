@@ -50,3 +50,9 @@ Min	56.0
 75%	74.0
 
 Max	83.0
+
+------------------
+
+## Conclusion
+
+There is relatively little variation between the two months temperatrure wise. The largest difference was the minimum temps but the difference was only that of 8 degrees. Therefore one month is not better than the other for this hypothetical sceniaro and business should differ minimally between the two months as far as temperature is concerned as a factor.
